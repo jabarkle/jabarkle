@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jabarkle
+- 👋 Hi, I’m Jesse
 - 👀 I’m interested in AI Engineering
 - 🌱 I’m currently learning AI Engineering at Carnegie Mellon University
 - 📫 How to reach me: Email at jabarkle@andrew.cmu.edu
